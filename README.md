@@ -3,7 +3,7 @@
 Create engaging quizzes in seconds using the power of AI!  
 **AI Quiz Craft** leverages Google's **Gemini API** to automatically generate customized quiz questions on any topic, delivering a seamless and intelligent quiz-building experience.
 
-![App Screenshot](./public/screenshot.png) <!-- Replace with your actual screenshot path -->
+![App Screenshot](./screenshot.jpg) <!-- Replace with your actual screenshot path -->
 
 ---
 
