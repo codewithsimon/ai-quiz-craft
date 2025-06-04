@@ -1,37 +1,47 @@
-# AI Quiz Craft
+# 🧠 AI Quiz Craft
 
 Create engaging quizzes in seconds using the power of AI!  
-**ai-quiz-craft** leverages the Gemini API to automatically generate custom quiz questions on any topic, providing a seamless and intelligent quiz creation experience.
+**AI Quiz Craft** leverages Google's **Gemini API** to automatically generate customized quiz questions on any topic, delivering a seamless and intelligent quiz-building experience.
+
+![App Screenshot](./public/screenshot.png) <!-- Replace with your actual screenshot path -->
 
 ---
 
 ## 🚀 Features
 
-- **Gemini API-Powered Quiz Generation**  
-  Instantly generate high-quality quiz questions using Google’s Gemini AI API.
-- **Multiple Quiz Formats**  
-  Supports multiple-choice and true/false.
-- **Modern, Intuitive UI**  
-  Sleek, responsive design for a delightful user experience.
-- **TypeScript-first Codebase**  
-  Built for reliability, maintainability, and scalability.
+- 🔮 **AI-Powered Quiz Generation**  
+  Instantly generate quiz questions using Google's Gemini API.
+  
+- 🧩 **Supports Multiple Formats**  
+  Choose between **Multiple Choice** and **True/False** questions.
+  
+- 💻 **Modern, Responsive UI**  
+  Sleek and mobile-friendly interface built for a great user experience.
+  
+- 🛡️ **TypeScript-First Codebase**  
+  Designed for reliability, scalability, and maintainability.
 
 ---
 
-## 🧠 How It Works
+## ⚙️ How It Works
 
-1. **Write Prompt**  
-   Enter a subject or prompt for your quiz.
-2. **Gemini API Generates Questions**  
-   The app sends your input to the Gemini API, which returns unique, relevant quiz questions and answers.
+1. **Enter a Prompt**  
+   Provide a topic or subject for your quiz.
+   
+2. **Generate Questions**  
+   The Gemini API processes the prompt and returns unique, relevant quiz questions and answers.
+   
+3. **Take the Quiz**  
+   Answer the questions and view your score instantly.
+
 ---
 
 ## 🛠️ Tech Stack
 
-- **Vite + React** 
+- [Vite](https://vitejs.dev/) + [React](https://react.dev/)
 - TypeScript
 - HTML & CSS
-- **Gemini API** for AI-powered content generation
+- [Gemini API](https://ai.google.dev/) for quiz content generation
 
 ---
 
@@ -61,10 +71,10 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 ## 💡 Usage
 
-1. Start the app and open it in your browser.
-2. Enter your or prompt.
-3. Click "Generate Quiz"—the Gemini API will instantly generate questions and answers.
-4. Play your quiz and track your performance.
+1. Type a topic or question prompt.
+2. Click **"Generate Quiz"**.
+3. Gemini will return a set of quiz questions.
+4. Answer the questions and get your score instantly!
 
 ---
 
@@ -83,7 +93,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Questions?
 
-Open an issue or reach out to [codewithsimon](https://github.com/codewithsimon).
+Open an [issue](https://github.com/codewithsimon/ai-quiz-craft/issues) or reach out to [codewithsimon](https://github.com/codewithsimon).
 
 ---
 
