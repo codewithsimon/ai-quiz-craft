@@ -3,9 +3,8 @@
 Create engaging quizzes in seconds using the power of AI!  
 **AI Quiz Craft** leverages Google's **Gemini API** to automatically generate customized quiz questions on any topic, delivering a seamless and intelligent quiz-building experience.
 
-![App Screenshot](screenshot.jpg) <!-- Replace with your actual screenshot path -->
+![App Screenshot](Screenshot.jpg) <!-- Replace with your actual screenshot path -->
 
----
 
 ## 🚀 Features
 
@@ -21,7 +20,6 @@ Create engaging quizzes in seconds using the power of AI!
 - 🛡️ **TypeScript-First Codebase**  
   Designed for reliability, scalability, and maintainability.
 
----
 
 ## ⚙️ How It Works
 
@@ -34,7 +32,6 @@ Create engaging quizzes in seconds using the power of AI!
 3. **Take the Quiz**  
    Answer the questions and view your score instantly.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +40,6 @@ Create engaging quizzes in seconds using the power of AI!
 - HTML & CSS
 - [Gemini API](https://ai.google.dev/) for quiz content generation
 
----
 
 ## 📦 Installation
 
@@ -54,7 +50,6 @@ npm install
 npm run dev
 ```
 
----
 
 ## 🗝️ Gemini API Setup
 
@@ -67,7 +62,6 @@ To use the AI quiz generation feature, you’ll need a Gemini API key:
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
----
 
 ## 💡 Usage
 
@@ -76,25 +70,21 @@ GEMINI_API_KEY=your_gemini_api_key_here
 3. Gemini will return a set of quiz questions.
 4. Answer the questions and get your score instantly!
 
----
 
 ## 🤝 Contributing
 
 Contributions are welcome!  
 Please open an issue or pull request to discuss any changes.
 
----
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
 ## 🙋‍♂️ Questions?
 
 Open an [issue](https://github.com/codewithsimon/ai-quiz-craft/issues) or reach out to [codewithsimon](https://github.com/codewithsimon).
 
----
 
 Let me know if you want to add demo links, screenshots, or more instructions!
