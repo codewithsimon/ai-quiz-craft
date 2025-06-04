@@ -99,6 +99,17 @@ const Hero: React.FC<HeroProps> = ({ onGenerateQuiz }) => {
             <p className="text-xl text-gray-700 dark:text-gray-300 leading-relaxed">
               Just enter a prompt, and our AI will craft a customized quiz for your specific needs.
             </p>
+            <h6 className="text-sm text-gray-700 dark:text-gray-300 leading-relaxed mt-4">
+              Made with ✨ by{" "}
+              <a
+              href="https://www.linkedin.com/in/codewithsimon//"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-600 dark:text-blue-400 underline hover:text-blue-800 dark:hover:text-blue-300"
+              >
+              Stephen SIMON
+              </a>
+            </h6>
           </div>
 
           <form onSubmit={handleSubmit} className="mb-6">
@@ -158,7 +169,7 @@ const Hero: React.FC<HeroProps> = ({ onGenerateQuiz }) => {
                   <p className="text-sm text-gray-600 dark:text-gray-400 line-clamp-2">{item.prompt}</p>
                 </button>
               ))}
-            </div>
+            </div>            
           </div>
         </div>
       </div>
